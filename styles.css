@@ -1,6 +1,6 @@
 body {
   height: 100vh;
-  background: DarkSlateGray ;
+  background: #4c4c4c ;
 }
 
 h1 {
@@ -13,7 +13,7 @@ h1 {
 h2 {
   font-family: fantasy;
   font-size: 26px;
-  color: Navy;
+  color: white;
 }
 
 .game-container {
@@ -28,7 +28,7 @@ h2 {
   width: 85%;
   transform: rotateX(35deg);
   padding: 0 2rem 2rem 2rem;
-  background: ForestGreen;
+  background: #912844;
 }
 
 #dealer-area {
@@ -64,7 +64,7 @@ h2 {
 }
 
 button {
-  background: SteelBlue;
+  background: #ff7298;
   padding: 1rem;
   font-size: 1rem;
   border-radius: 1rem;
