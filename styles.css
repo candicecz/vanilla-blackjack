@@ -7,11 +7,11 @@ h1 {
   margin: 2rem;
   text-align: center;
   color: white;
-  font-family: segoe-ui;
+  font-family: 'Roboto', sans-serif;
 }
 
 h2 {
-  font-family: segoe-ui;
+  font-family: 'Roboto', sans-serif;
   font-size: 26px;
   color: white;
 }
