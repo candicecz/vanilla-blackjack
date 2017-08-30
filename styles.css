@@ -28,7 +28,7 @@ h2 {
   width: 85%;
   transform: rotateX(35deg);
   padding: 0 2rem 2rem 2rem;
-  background: #912844;
+  background: ForestGreen;
 }
 
 #dealer-area {
@@ -64,7 +64,8 @@ h2 {
 }
 
 button {
-  background: #ff7298;
+  color: #fff
+  background: #dbdbdb;
   padding: 1rem;
   font-size: 1rem;
   border-radius: 1rem;
